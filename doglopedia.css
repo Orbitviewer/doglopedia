@@ -27,3 +27,13 @@
     text-align: center;
     color: rgba(53, 56, 29, 0.6);
 }
+
+#linkholder
+{
+    background-color: white;
+    width: auto;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
