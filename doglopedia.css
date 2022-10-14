@@ -14,3 +14,16 @@
     padding: 10px;
 }
 
+#header
+{
+    font-size: 40px;
+    text-align: center;
+    color: rgba(53, 56, 29, 0.6);
+}
+
+.underheader
+{
+    font-size: 25px;
+    text-align: center;
+    color: rgba(53, 56, 29, 0.6);
+}
